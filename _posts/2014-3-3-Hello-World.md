@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Das ist die Vorlage
 category: Dart
 ---
