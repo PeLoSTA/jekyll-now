@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dies ist mein zweiter Artikel
+category: C++
 ---
 
 Vorher
